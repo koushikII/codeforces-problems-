@@ -1,3 +1,8 @@
+//https://codeforces.com/contest/1238/problem/A
+
+
+
+
 #include <stdio.h>
 
 int main(void) {
